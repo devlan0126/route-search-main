@@ -3,6 +3,10 @@
   "version": "0.1.8",
   "private": false,
   "main": "lib/route-search.umd.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlan0126/route-search-main.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
